@@ -1,2 +1,2 @@
-# terraplane
-testing Hashicorp Terraplane
+# terraform
+testing Hashicorp [Terraform](https://www.terraform.io)
