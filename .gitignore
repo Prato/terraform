@@ -22,3 +22,9 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+*tfstate*
+.terraform/
+.vagrant/
+*.log
+*.bak
