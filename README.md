@@ -1,8 +1,8 @@
 # terraform
-...just testing
+- Hashicorp [Terraform](https://www.terraform.io)
+- [Docs](https://www.terraform.io/docs/index.html)
 
-Hashicorp [Terraform](https://www.terraform.io)
-Docs (https://www.terraform.io/docs/index.html)
+...just testing
 
 ## Usage
 ```bash
